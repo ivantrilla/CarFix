@@ -1,0 +1,1 @@
+ C:\\Users\\trill\\Downloads\\app_mecanicos\\.dart_tool\\flutter_build\\fac6715f2de3d57299b5924fdb5f424f\\native_assets.yaml: 

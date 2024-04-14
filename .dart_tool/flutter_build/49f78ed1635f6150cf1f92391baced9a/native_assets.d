@@ -1,0 +1,1 @@
+ C:\\M08\ APP\\Visual\ Studio\ Code\\fitxa7\\app_mecanicos\\.dart_tool\\flutter_build\\49f78ed1635f6150cf1f92391baced9a\\native_assets.yaml: 
